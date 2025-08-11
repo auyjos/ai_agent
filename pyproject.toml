@@ -1,0 +1,8 @@
+[project]
+name = "ai_agent"
+version = "0.1.0"
+description = "A sample project using uv"
+dependencies = [
+    "google-genai==1.12.1",
+    "python-dotenv==1.1.0",
+]
